@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KDostal
+- 👀 I’m computer science bachelors graduate, now continuing to engineers. I work at big CAD company in Big Data/AI department.
+- 📫 How to reach me Kryštof Dostál at LinkedIn, dostal.kry@gmail.com
